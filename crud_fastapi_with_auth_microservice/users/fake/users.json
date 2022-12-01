@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@admin.com",
+        "full_name": "Admin Admin",
+        "user_type": "admin",
+        "hashed_password": "$2b$12$16kNu5IW80k1Tw7xz2H3iOCsz0.oMZ7q5OSGa/OIfOae0WGFe8aI2",
+        "created_by": 1
+    }
+]
